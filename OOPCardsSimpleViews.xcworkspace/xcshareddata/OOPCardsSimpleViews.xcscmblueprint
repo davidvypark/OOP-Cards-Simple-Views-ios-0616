@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E4A4FDB9B81B2E24BFA09134AF7EB7707A123F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0,
+    "2E4A4FDB9B81B2E24BFA09134AF7EB7707A123F2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3FC67684-7489-4E5A-82A0-42BC33BF64D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : "",
+    "2E4A4FDB9B81B2E24BFA09134AF7EB7707A123F2" : "OOP-Cards-Simple-Views"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OOPCardsSimpleViews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OOPCardsSimpleViews.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-curriculum\/OOP-Cards-Simple-Views.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E4A4FDB9B81B2E24BFA09134AF7EB7707A123F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    }
+  ]
+}
